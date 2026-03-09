@@ -1,0 +1,5 @@
+swing_trader.db
+models/
+__pycache__/
+*.pyc
+.env
