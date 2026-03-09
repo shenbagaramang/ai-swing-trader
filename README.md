@@ -152,3 +152,4 @@ plyer >= 2.1        (desktop notifications)
 python-telegram-bot (Telegram alerts, optional)
 sqlalchemy >= 2.0
 ```
+# ai-swing-trader
